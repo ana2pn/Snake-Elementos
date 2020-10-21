@@ -2,6 +2,8 @@
 // and the book "The Elements of Computing Systems"
 // by Nisan and Schocken, MIT Press.
 
+
+//Código disponibilizado em https://github.com/ana2pn/Snake-Elementos
 class Main {
     function void main() {
         var SnakeGame game;
